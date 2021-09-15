@@ -40,9 +40,9 @@ export default defineComponent({
       >
         <img
           v-if="show"
-          alt="Vitesome logo"
+          alt="TSIT logo"
           class="w-52 mx-auto mb-12"
-          :src="'imagotype.svg'"
+          :src="'tsit_logo.svg'"
         />
       </transition>
     </div>
@@ -73,7 +73,7 @@ export default defineComponent({
         </li>
         <li class="cursor-pointer text-2xl">
           <a
-            href="https://github.com/alvarosaburido"
+            href="https://github.com/itorets"
             rel="noreferrer"
             target="_blank"
             class="footer-link text-cyan-700 hover:text-cyan-500"
