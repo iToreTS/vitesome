@@ -28,7 +28,7 @@ export default defineComponent({
 });
 </script>
 <template>
-  <div class="container max-w-3xl mx-auto mt-60">
+  <div class="container max-w-3xl mx-auto">
     <div class="h-60 mb-8">
       <transition
         enter-active-class="transition ease-out duration-1000 transform"
@@ -45,6 +45,9 @@ export default defineComponent({
           :src="'tsit_logo.svg'"
         />
       </transition>
+      <p class="text-center text-2xl">
+        I support your next IT Solutions
+      </p>
     </div>
 
     <HelloWorld :msg="t('hello') + ' 👋 ' + t('welcome')" />
