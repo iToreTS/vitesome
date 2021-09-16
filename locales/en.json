@@ -1,9 +1,9 @@
 {
   "hello": "Hello",
-  "made_by": "Made by",
+  "made_by": "Template made by",
   "toggle_language": "Toggle Language",
   "welcome": "there, thanks for visiting TSIT",
-  "recomended-ide": "Recommended IDE setup",
-  "See": "See",
-  "more-info": "for more information."
+  "recomended-ide": "I have been working as a developer, lead developer and system architect for 20+ years. It has been a wide range of technologies, however my main tech now is frontend web application development with React/Typescript and Vue.js. I also do backend with Nodejs and .Net Core/.Net5. Cloud platforms I have worked with is Azure and AWS.",
+  "See": "I am located in southern Norway, between Kristiansand and Arendal, but also remote work is of big interest. Projects can be both full time and part time.",
+  "more-info": ""
 }
