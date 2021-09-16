@@ -24,7 +24,6 @@ export default defineComponent({
     <p>
       {{t('recomended-ide')}}
      
-      ({{t('if-using')}}
       
     </p>
 

@@ -46,7 +46,7 @@ export default defineComponent({
         />
       </transition>
       <p class="text-center text-2xl">
-        I support your next IT Solutions
+        Kickstart your next IT Solution development
       </p>
     </div>
 
