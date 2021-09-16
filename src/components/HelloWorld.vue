@@ -23,27 +23,16 @@ export default defineComponent({
 
     <p>
       {{t('recomended-ide')}}
-      <a href="https://code.visualstudio.com/" target="_blank">VSCode</a>
-      +
-      <a
-        href="https://marketplace.visualstudio.com/items?itemName=octref.vetur"
-        target="_blank"
-      >
-        Vetur
-      </a>
-      or
-      <a href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>
+     
       ({{t('if-using')}}
-      <code>&lt;script setup&gt;</code>)
+      
     </p>
 
-    <p>{{t('See')}} <code>README.md</code> {{t('more-info')}}</p>
+    <p>{{t('See')}} {{t('more-info')}}</p>
     <p class="mb-10">
-      <a href="https://vitejs.dev/guide/features.html" target="_blank">
-        Vite Docs
-      </a>
+      
       |
-      <a href="https://v3.vuejs.org/" target="_blank">Vue 3 Docs</a>
+      
     </p>
   </div>
 </template>
