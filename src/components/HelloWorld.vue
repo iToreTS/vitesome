@@ -33,6 +33,11 @@ export default defineComponent({
       |
       
     </p>
+    <p class="mb-10">
+      
+    <a href="https://www.linkedin.com/in/tore-thunem-saanum-6009002/"><i class="iconify" :data-icon="'mdi:linkedin'" />  Profile on LinkedIn</a> 
+      
+    </p>
   </div>
 </template>
 
